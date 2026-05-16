@@ -10,22 +10,9 @@
 		E9980E322FB8FBED0062118F /* SecondBrain_Notes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondBrain_Notes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E9980E552FB900460062118F /* Exceptions for "SecondBrain_Notes" folder in "SecondBrain_Notes" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"SecondBrain-Notes-Info.plist",
-			);
-			target = E9980E312FB8FBED0062118F /* SecondBrain_Notes */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		E9980E342FB8FBED0062118F /* SecondBrain_Notes */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				E9980E552FB900460062118F /* Exceptions for "SecondBrain_Notes" folder in "SecondBrain_Notes" target */,
-			);
 			path = SecondBrain_Notes;
 			sourceTree = "<group>";
 		};
